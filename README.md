@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **MilagrosLuna/MilagrosLuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently in second year, studying programming at the Universidad Tecnológica Nacional (UTN).
 
-# Lenguaje and tools
+
+### Lenguaje and tools
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
 
-# Contact
-milivictoria2004@gmail.com
+### Contact
+mlivictoria2004@gmail.com
 
-# Linkedin
-https://www.linkedin.com/in/milagrosluna/
+### Linkedin
+https://www.linkedin.com/in/milagros-luna-233615b6/
