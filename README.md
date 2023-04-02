@@ -37,6 +37,10 @@ mlivictoria2004@gmail.com
 
 https://www.linkedin.com/in/milagros-luna-233615b6/
 
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MilagrosLuna&show_icons=true&theme=radical&locale=en&layout=compact" alt="MilagrosLuna" />
+</p>
+
 ### Views
 
 <img src="https://komarev.com/ghpvc/?username=Milagros-Luna&style=flat-square&color=blue" alt=""/>
