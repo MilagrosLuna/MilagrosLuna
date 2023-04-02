@@ -33,3 +33,6 @@ mlivictoria2004@gmail.com
 
 ### Linkedin
 https://www.linkedin.com/in/milagros-luna-233615b6/
+<a href="https://www.linkedin.com/in/milagros-luna-233615b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
