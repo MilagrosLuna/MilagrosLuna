@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 ### Contact & Linkedin  
 mlivictoria2004@gmail.com
 <br>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mili890m)
-
 <a href="https://www.linkedin.com/in/milagros-luna-233615b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahupazos" height="30" width="40" /></a>
 
 ### Views
