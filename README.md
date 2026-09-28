@@ -1,53 +1,30 @@
-# ¡Hola! Soy **Milagros Luna**
+# Milagros Luna
 
-💻 Desarrolladora Web Full Stack  
-🎓 Técnica Universitaria en Programación – UTN  
-📍 Buenos Aires, Argentina  
-🌐 [**Portafolio**](https://milagrosluna.vercel.app/) | 💼 [**LinkedIn**](https://www.linkedin.com/in/milagroslunam/) | ✉️ **lunamilagrosw@gmail.com**
+**Full Stack Developer · Tech Lead** | React · Next.js · TypeScript · Node.js
 
----
+📍 Buenos Aires, Argentina · Híbrido / Remoto
 
-## 👩‍💻 Sobre mí
-
-Soy desarrolladora web full stack con experiencia en **React, Next.js y Angular**, enfocada en crear interfaces modernas, accesibles y de alto rendimiento.  
-Actualmente formo parte del equipo de desarrollo del **Gobierno de la Ciudad de Buenos Aires**, donde participo en la creación e implementación de aplicaciones web escalables.  
-
-Me apasiona aprender nuevas tecnologías, escribir código limpio y trabajar en entornos colaborativos aplicando buenas prácticas.
+[Portfolio](https://milagrosluna.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/milagroslunam/) · lunamilagrosw@gmail.com
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Sobre mí
 
-**Frontend:**  
-React · Next.js · Angular · Tailwind CSS · Bootstrap · HTML · CSS · JavaScript · TypeScript  
+Desarrolladora Full Stack y Tech Lead en el Gobierno de la Ciudad de Buenos Aires. Soy responsable técnica de una app con +200.000 usuarios registrados y de su backoffice administrativo: arquitectura, desarrollo, code reviews, integraciones con otros sistemas y despliegues.
 
-**Backend:**  
-Node.js · Prisma · Firebase · REST APIs  
+Técnica Universitaria en Programación (UTN).
 
-**Bases de Datos:**  
-MySQL · SQL Server · SQLite  
+---
 
-**Herramientas y Otros:**  
-Git · GitHub · Postman · Google Cloud Platform · Visual Studio Code  
+## Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,nodejs,html,css,tailwind,bootstrap,cs,php,mysql,firebase,git,github,postman,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,angular,tailwind,bootstrap,mysql,firebase,prisma,git,github,postman,gcp" />
 </p>
 
 ---
 
-## 📚 Educación
+## Educación
 
-🎓 **Tecnicatura Universitaria en Programación** – Universidad Tecnológica Nacional (UTN)  
-📆 2022 – 2023  
-
----
-
-## 📊 Estadísticas
-
-<img src="https://komarev.com/ghpvc/?username=Milagros-Luna&style=flat-square&color=blue" alt=""/>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MilagrosLuna&show_icons=true&theme=radical&locale=en&layout=compact" alt="MilagrosLuna" />
-</p>
+Tecnicatura Universitaria en Programación · Universidad Tecnológica Nacional (UTN) · 2022-2023
 
